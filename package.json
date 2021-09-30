@@ -1,0 +1,23 @@
+{
+  "name": "efuse",
+  "version": "1.0.0",
+  "description": "NodeJs express and mongodb api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "efuse",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8"
+  }
+}
